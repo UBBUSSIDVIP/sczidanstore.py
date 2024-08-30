@@ -20,6 +20,6 @@ pip install pystyle
 
 git clone https://github.com/UBBUSSIDVIP/sczidanstore.git
 
-cd bussid
+cd sczidanstore
 
-python sczidanstore.py
+python zidanstore.py
